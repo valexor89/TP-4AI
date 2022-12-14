@@ -51,11 +51,3 @@ int main(int argc, char *argv[]){
 
 
 
-/************************************************************************
-* Listato da "Tecnologie e progettazione di sistemi ... Vol.2           *
-* Copyright (C) 2012-2016 by Hoepli Editore                             * 
-* collaudo in: gcc OK                                                   *
-*              linux: compilare con gcc -pthread <nome>.c -o -<desti>   *                                            *
-************************************************************************/
-
-
